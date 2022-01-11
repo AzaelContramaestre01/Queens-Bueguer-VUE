@@ -1,0 +1,89 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Café americano",
+        "price": 3.0,
+        "category": "Breakfast",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Café con leche",
+        "price": 5.0,
+        "category": "Breakfast",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Sandwich de Jamon y Queso",
+        "price": 7.0,
+        "category": "Breakfast",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Jugo natural",
+        "price": 1.0,
+        "category": "Breakfast",
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "name": "Hamburguesa simple",
+        "price": 5.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Hamburguesa Doble",
+        "price": 8.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "name": "Papas fritas",
+        "price": 4.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "name": "Cazuela",
+        "price": 8.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "name": "Arroz al Curry",
+        "price": 10.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 10,
+        "name": "Arepa con queso",
+        "price": 6.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "name": "Sopaipilla",
+        "price": 3.0,
+        "category": "lunch",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "name": "Malteada de Chocolate",
+        "price": 1.5,
+        "category": "lunch",
+        "quantity": 1
+      }
+    ]
+  }
+  
